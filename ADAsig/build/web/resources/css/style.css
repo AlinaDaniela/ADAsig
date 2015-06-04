@@ -1,0 +1,43 @@
+#loginbox{
+    margin-top:50px;
+}
+
+#signupbox{
+    margin-top:50px;
+}
+.rightForm{
+    float:right;
+    font-size: 80%; 
+    position: relative; 
+    top:-10px;
+}
+
+.panel-body{
+    padding-top:30px
+}
+
+.input-group{
+    margin-bottom: 25px
+}
+
+.form-group{
+    margin-top:10px
+}
+
+#noAccount{
+    border-top: 1px solid#888; 
+    padding-top:15px; 
+    font-size:85%
+}
+
+.user{
+    color:#9d9d9d;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    line-height: 20px;
+}
+
+#asigurare{
+    width:54%;
+}

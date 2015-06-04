@@ -1,0 +1,15 @@
+SMAP
+animation_jsp.java
+JSP
+*S JSP
+*F
++ 0 animation.jsp
+animation.jsp
+*L
+1,32:44
+33:76,5
+34:81,3
+35,2:84
+37,2:86,3
+39,92:92
+*E
